@@ -39,6 +39,7 @@ my-project/
 │   │
 │   └── core/
 │       └── resourceGroup.bicep
+        └── KeyVault.bicep
 │
 └── parameters/            // (Optional) Folder for parameter files if needed
     └── dev.parameters.json
